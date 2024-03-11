@@ -8,7 +8,7 @@ os.system('cls')
 
 
 
-"■■■■■■■■■■■■■■■■■■■■ ESTA ES UNA PRUEBA AL REALIZAR UN CAMBIO EN LA PC Y QUE SE ACTUALICE EN GITHUB POR MEDIO DE GITBASH ■■■■■■■■■■■■■■■■■■■■"
+"■■■■■■■■■■■■■■■■■■■■ Voy a eliminar esta línea >>>>>> ' ' <<<<<< Yase Eliminó la línea desde mi PC ■■■■■■■■■■■■■■■■■■■■"
 
 
 
