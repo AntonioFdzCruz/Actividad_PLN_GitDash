@@ -8,7 +8,7 @@ os.system('cls')
 
 
 
-"■■■■■■■■■■■■■■■■■■■■ Voy a eliminar esta línea >>>>>> ' ' <<<<<< Yase Eliminó la línea desde mi PC ■■■■■■■■■■■■■■■■■■■■"
+"■■■■■■■■■■■■■■■■■■■■ Voy a eliminar esta línea >>>>>> ' ' <<<<<< Ya se Eliminó la línea desde mi PC ■■■■■■■■■■■■■■■■■■■■"----CORREGIDO
 
 
 
